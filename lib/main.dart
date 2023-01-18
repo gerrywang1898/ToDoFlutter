@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'pages/home_page.dart';
-
+//testcomment
 void main() async {
   // init the hive
   await Hive.initFlutter();
